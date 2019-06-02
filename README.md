@@ -8,13 +8,13 @@ Steps:
 2. Download all files in above directory.
 3. Execution
 
-3. Run from anywhere: 
-    4. In Windows environment variable add a new path "C:\AutoCreateProject"
-    5. Open command prompts anywhere and type "create 'NewProjectFolderName'"
-    6. A 'NewProjectFolderName' will be created in C Drive of windows.
+4. Run from anywhere: 
+    - In Windows environment variable add a new path "C:\AutoCreateProject"
+    - Open command prompts anywhere and type "create 'NewProjectFolderName'"
+    - A 'NewProjectFolderName' will be created in C Drive of windows.
 
-7. Run from "C:\AutoCreateProject":
-    8. Open cmd, run 'create NewProjectFolderName'
-    9. A 'NewProjectFolderName' will be created in C Drive of windows.
+5. Run from "C:\AutoCreateProject":
+    - Open cmd, run 'create NewProjectFolderName'
+    - A 'NewProjectFolderName' will be created in C Drive of windows.
 
-10. Enjoy live action
+6. Enjoy live action
