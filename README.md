@@ -16,7 +16,7 @@
     - In Windows environment variable add a new path `C:\AutoCreateProject`
     - Open command prompts from any path and type `create <NewProjectFolderName>`
     - A 'NewProjectFolderName' will be created in C Drive of windows.
-
+OR
 5. Run from "C:\AutoCreateProject":
     - Open cmd, run `create <NewProjectFolderName>`
     - A 'NewProjectFolderName' will be created in C Drive of windows.
