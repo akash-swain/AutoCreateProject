@@ -37,12 +37,6 @@ class GitHub:
         self.driver.close()
 
 
-
-
-        
-
-# git remote add origin https://github.com/aks16588/NewRepo.git
-# git push -u origin master
     
 with open("config.txt") as f:
     data = eval(f.read())
