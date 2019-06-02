@@ -3,7 +3,7 @@
 ### Pre requisite:
 1. **System** = Windows
 2. **Installed Programs** = **Python** (Download it from web), **Selenium** (run "pip install selenium" inside command prompt)
-3. **A [hyperlink]http://github.com account**
+3. **A https://github.com account**
 
 
 ### Steps:
