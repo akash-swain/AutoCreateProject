@@ -18,8 +18,8 @@
     - Open command prompts from any path and type `create <NewProjectFolderName>`
     - A 'NewProjectFolderName' will be created in C Drive of windows.
 
-4. Run from "C:\AutoCreateProject":
+5. Run from "C:\AutoCreateProject":
     - Open cmd, run `create <NewProjectFolderName>`
     - A 'NewProjectFolderName' will be created in C Drive of windows.
 ##
-5. Enjoy live action
+6. Enjoy live action
